@@ -1,0 +1,13 @@
+indicator,source,key,latest_date,latest_value,pct_rank,sign,history_from,chg_6m,chg_1y,chg_2y
+"LFS unemployment rate (16+, SA)",ONS MGSX,U,May 2026,4.9,0.289157,1,Feb 1971,-0.0993976,0.0466867,0.14006
+Claimant count rate (SA),ONS CLA01 / BCJE,claimant_count,Jul 2026,4.33456,0.524024,1,Feb 1971,0.0165165,-0.0045045,-0.0825826
+"Average actual weekly hours, full-time (SA)",ONS YBUY,avh,May 2026,36.7,0.826829,-1,Apr 1992,0,-0.0731707,-0.102439
+Vacancies per payrolled employee,ONS AP2Y / PAYE RTI,vacancies,Jun 2026,0.0233518,0.916084,-1,Aug 2014,0.0839161,0.048951,0.51049
+"Private regular pay, 3m/3m annualised growth",ONS KAJ2,awe,Jun 2026,0.027571,0.610224,-1,Jun 2000,-0.0479233,0.194888,0.539936
+"RF alternative employment rate, 16-64",RF (manual),rf_emp_rate,May 2025,0.746776,0.692308,-1,Aug 2014,0.230769,0.361538,0.607692
+Underemployment rate (NSA),ONS EMP16,underemployment,May 2026,8.04266,0.591837,1,Feb 2002,-0.0714286,0.0510204,0.326531
+BoE Agents' recruitment difficulties score,Bank of England Agents' scores,boe,Aug 2026,-0.5,0.748387,-1,Jul 1997,0.0451613,0.0451613,0.151613
+"DMP ease of hiring, net balance",Decision Maker Panel monthly,dmp,Mar 2026,-0.09318,1,1,Oct 2021,0.133333,0.0888889,0.266667
+Indeed job postings index,FRED IHLIDXNSAGB,indeed,Aug 2026,71.7,0.813333,-1,Jun 2020,0.0533333,0.12,0.28
+BCC share of recruiters reporting difficulty,BCC QES/QRO (manual),bcc,Jun 2026,0.73,0.567568,-1,Jun 2017,-0.162162,0,0.135135
+"DFM tightness factor (unemployment-rate units, post-2000 history)",Model 2,factor_U_units,Aug 2026,4.9512,0.409375,1,Jan 2000,0.003125,0.040625,0.175
