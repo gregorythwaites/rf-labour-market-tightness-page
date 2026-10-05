@@ -8,6 +8,6 @@ Vacancies per payrolled employee,ONS AP2Y / PAYE RTI,vacancies,Jul 2026,0.023205
 Underemployment rate (NSA),ONS EMP16,underemployment,May 2026,8.04266,0.591837,1,Feb 2002,-0.0714286,0.0510204,0.326531
 BoE Agents' recruitment difficulties score,Bank of England Agents' scores,boe,Aug 2026,-0.5,0.748387,-1,Jul 1997,0.0451613,0.0451613,0.151613
 "DMP ease of hiring, net balance",Decision Maker Panel monthly,dmp,Mar 2026,-0.09318,1,1,Oct 2021,0.133333,0.0888889,0.266667
-Indeed job postings index,FRED IHLIDXNSAGB,indeed,Aug 2026,71.7,0.813333,-1,Jun 2020,0.0533333,0.12,0.28
+Indeed job postings index,FRED IHLIDXNSAGB,indeed,Sep 2026,72.06,0.802632,-1,Jun 2020,0.0394737,0.144737,0.263158
 BCC share of recruiters reporting difficulty,BCC QES/QRO (manual),bcc,Jun 2026,0.73,0.567568,-1,Jun 2017,-0.162162,0,0.135135
-"DFM tightness factor (unemployment-rate units, post-2000 history)",Model 2,factor_U_units,Aug 2026,4.98565,0.421875,1,Jan 2000,0.01875,0.053125,0.1875
+"DFM tightness factor (unemployment-rate units, post-2000 history)",Model 2,factor_U_units,Sep 2026,4.98163,0.420561,1,Jan 2000,0.0124611,0.0623053,0.180685
