@@ -1,13 +1,13 @@
 indicator,source,key,latest_date,latest_value,pct_rank,sign,history_from,chg_6m,chg_1y,chg_2y
-"LFS unemployment rate (16+, SA)",ONS MGSX,U,Jun 2026,4.9,0.290226,1,Feb 1971,-0.0992481,0.0481203,0.141353
-Claimant count rate (SA),ONS CLA01 / BCJE,claimant_count,Aug 2026,4.40476,0.545727,1,Feb 1971,0.0194903,0.023988,-0.0554723
-"Average actual weekly hours, full-time (SA)",ONS YBUY,avh,Jun 2026,36.7,0.827251,-1,Apr 1992,-0.0729927,-0.0729927,-0.0729927
-Vacancies per payrolled employee,ONS AP2Y / PAYE RTI,vacancies,Jul 2026,0.0232058,0.916667,-1,Aug 2014,0.0486111,0.104167,0.451389
-"Private regular pay, 3m/3m annualised growth",ONS KAJ2,awe,Jul 2026,0.035482,0.433121,-1,Jun 2000,-0.267516,0.105096,0.340764
+"LFS unemployment rate (16+, SA)",ONS MGSX,U,Jul 2026,4.7,0.243243,1,Feb 1971,-0.048048,-0.0255255,0.121622
+Claimant count rate (SA),ONS CLA01 / BCJE,claimant_count,Sep 2026,4.42943,0.561377,1,Feb 1971,0.0299401,0.0419162,-0.0434132
+"Average actual weekly hours, full-time (SA)",ONS YBUY,avh,Jul 2026,36.7,0.82767,-1,Apr 1992,-0.101942,-0.0728155,-0.0169903
+Vacancies per payrolled employee,ONS AP2Y / PAYE RTI,vacancies,Aug 2026,0.0228262,0.917241,-1,Aug 2014,0.0482759,0.0689655,0.413793
+"Private regular pay, 3m/3m annualised growth",ONS KAJ2,awe,Aug 2026,0.0454137,0.244444,-1,Jun 2000,-0.307937,-0.0920635,0.126984
 "RF alternative employment rate, 16-64",RF (manual),rf_emp_rate,May 2025,0.746776,0.692308,-1,Aug 2014,0.230769,0.361538,0.607692
 Underemployment rate (NSA),ONS EMP16,underemployment,May 2026,8.04266,0.591837,1,Feb 2002,-0.0714286,0.0510204,0.326531
 BoE Agents' recruitment difficulties score,Bank of England Agents' scores,boe,Aug 2026,-0.5,0.748387,-1,Jul 1997,0.0451613,0.0451613,0.151613
 "DMP ease of hiring, net balance",Decision Maker Panel monthly,dmp,Mar 2026,-0.09318,1,1,Oct 2021,0.133333,0.0888889,0.266667
 Indeed job postings index,FRED IHLIDXNSAGB,indeed,Sep 2026,72.7663,0.789474,-1,Jun 2020,0.0263158,0.131579,0.25
 BCC share of recruiters reporting difficulty,BCC QES/QRO (manual),bcc,Jun 2026,0.73,0.567568,-1,Jun 2017,-0.162162,0,0.135135
-"DFM tightness factor (unemployment-rate units, post-2000 history)",Model 2,factor_U_units,Sep 2026,4.97057,0.417445,1,Jan 2000,0.00934579,0.05919,0.17757
+"DFM tightness factor (unemployment-rate units, post-2000 history)",Model 2,factor_U_units,Sep 2026,4.96873,0.423676,1,Jan 2000,0.0155763,0.0654206,0.183801
