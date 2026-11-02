@@ -6,8 +6,8 @@ Vacancies per payrolled employee,ONS AP2Y / PAYE RTI,vacancies,Aug 2026,0.022826
 "Private regular pay, 3m/3m annualised growth",ONS KAJ2,awe,Aug 2026,0.0454137,0.244444,-1,Jun 2000,-0.307937,-0.0920635,0.126984
 "RF alternative employment rate, 16-64",RF (manual),rf_emp_rate,May 2025,0.746776,0.692308,-1,Aug 2014,0.230769,0.361538,0.607692
 Underemployment rate (NSA),ONS EMP16,underemployment,May 2026,8.04266,0.591837,1,Feb 2002,-0.0714286,0.0510204,0.326531
-BoE Agents' recruitment difficulties score,Bank of England Agents' scores,boe,Aug 2026,-0.5,0.748387,-1,Jul 1997,0.0451613,0.0451613,0.151613
+BoE Agents' recruitment difficulties score,Bank of England Agents' scores,boe,Oct 2026,-0.5,0.749196,-1,Jul 1997,0.0482315,0.0482315,0.154341
 "DMP ease of hiring, net balance",Decision Maker Panel monthly,dmp,Mar 2026,-0.09318,1,1,Oct 2021,0.133333,0.0888889,0.266667
-Indeed job postings index,FRED IHLIDXNSAGB,indeed,Sep 2026,72.7663,0.789474,-1,Jun 2020,0.0263158,0.131579,0.25
+Indeed job postings index,FRED IHLIDXNSAGB,indeed,Oct 2026,73.7732,0.779221,-1,Jun 2020,-0.0649351,0.155844,0.233766
 BCC share of recruiters reporting difficulty,BCC QES/QRO (manual),bcc,Jun 2026,0.73,0.567568,-1,Jun 2017,-0.162162,0,0.135135
-"DFM tightness factor (unemployment-rate units, post-2000 history)",Model 2,factor_U_units,Sep 2026,4.96873,0.423676,1,Jan 2000,0.0155763,0.0654206,0.183801
+"DFM tightness factor (unemployment-rate units, post-2000 history)",Model 2,factor_U_units,Oct 2026,4.95427,0.419255,1,Jan 2000,-0.00310559,0.0652174,0.177019
